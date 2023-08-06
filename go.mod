@@ -1,4 +1,4 @@
-module github.com/storage-lock/go-events-listener-stdout
+module github.com/storage-lock/go-event-listener-stdout
 
 go 1.18
 
