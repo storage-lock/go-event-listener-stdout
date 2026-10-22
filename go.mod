@@ -3,7 +3,7 @@ module github.com/storage-lock/go-event-listener-stdout
 go 1.23
 
 require (
-	github.com/storage-lock/go-events v0.0.4
+	github.com/storage-lock/go-events v0.0.5
 	github.com/storage-lock/go-memory-locks v0.0.1
 	github.com/storage-lock/go-storage-lock v0.0.6
 	github.com/storage-lock/go-utils v0.0.2
